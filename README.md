@@ -40,3 +40,7 @@ The File with code setting given below to solve this issue
                           }
                           
    Now all is working You perform every Action with front and backend Smart Contract through Web3.js file in JS language...
+# Links To Build ERC20-Tokens GitHub
+    https://github.com/ethereum/EIPs/blob/master/EIPS/eip-20.md
+
+
